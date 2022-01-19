@@ -3,7 +3,9 @@
 > version : 0.9 -
 > 18-01-2022
 
-GUI video downloader with playlists, audio, custom file format and much more.
+Video downloader with GUI, playlists, audio, custom file format, accounts access and much more.
+
+[Download Now!](https://github.com/MustafaHi/Recast/releases/latest)
 
 <div align="center">
   
@@ -11,17 +13,18 @@ GUI video downloader with playlists, audio, custom file format and much more.
   
 </div>
 
+
 ## Features
 
 - Download videos with custom format and quality
 
 - Option to download audio only
 
-- Queues with conccurent downloads limit
+- Queues with conccurent downloads
 
 - Playlist download
 
-- Accounts for websites that require it
+- Accounts for content with limited access
 
 
 
@@ -53,7 +56,8 @@ GUI video downloader with playlists, audio, custom file format and much more.
 
 - File size is not shown, it is an issue with youtube-dl
 
-- If it is stuck on "Updating!" update youtube-dl manually
+- If it is stuck on "Updating!" update youtube-dl manually,  
+  you also need to update the app manually as the updater only updates the downloader
 
 - Can't change download speed, it is currently limited
 
