@@ -5,7 +5,7 @@
 
 Video downloader with GUI, playlists, audio, custom file format, accounts access and much more.
 
-[Download Now!](https://github.com/MustafaHi/Recast/releases/latest)
+[Download Now!](https://github.com/MustafaHi/xload/releases/latest)
 
 <div align="center">
   
