@@ -81,7 +81,8 @@ Video downloader with GUI, playlists, audio, custom file format, accounts access
 GUI built with [Sciter](https://github.com/c-smile/sciter-sdk) downloader using [youtube-dl](https://github.com/ytdl-org/youtube-dl).
 
 
-Source code or rights of the software is available for purchase, contact [this email](mailto:matterik971@gmail.com) with subject "xload : business name".
+Source code or rights of the software is available for purchase,  
+contact [this email](mailto:matterik971@gmail.com) with subject "xload : business name".
 
 You may report issues and request features, but that is likely to not happen, even as "it is" now, it is much better than alternatives.
 
